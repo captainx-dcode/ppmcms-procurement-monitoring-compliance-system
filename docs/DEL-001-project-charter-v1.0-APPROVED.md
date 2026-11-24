@@ -3,8 +3,8 @@
 ## Public Procurement Monitoring and Compliance Management System
 
 **Document ID:** PPMCMS-DEL-001
-**Version:** 1.0 — Proposed for Project Owner approval
-**Status:** Draft — consolidated, self-reviewed, pending Project Owner approval
+**Version:** 1.0 — Approved baseline
+**Status:** Approved — Project Owner approval recorded 24 November 2026
 **Project Owner and Approver:** Eugen Walubengo Nyongesa
 **Date:** 24 November 2026
 **Supersedes:** Version 0.4 and earlier drafts
@@ -494,9 +494,9 @@ The document has been self-reviewed. The review was informed by AI-assisted crit
 
 | Approval role | Name                     | Decision                                            | Date           |
 | ------------- | ------------------------ | --------------------------------------------------- | -------------- |
-| Project Owner | Eugen Walubengo Nyongesa | Pending review and approval of proposed Version 1.0 | To be recorded |
+| Project Owner | Eugen Walubengo Nyongesa | Approved — Version 1.0 established as the project baseline | 24 November 2026 |
 
-**Approval rule:** This document becomes the approved Version 1.0 project baseline only after the Project Owner explicitly approves it and the decision and date are recorded. Until then, its status remains Draft — pending Project Owner approval.
+**Approval record:** The Project Owner explicitly approved this document on 24 November 2026. Version 1.0 is the approved project baseline. This approval records the project baseline; it does not imply independent human review, external stakeholder endorsement, legal verification of outstanding actions, or implementation of planned capabilities.
 
 ---
 
@@ -687,4 +687,4 @@ Document identifiers and traceability references must remain consistent when fil
 
 ---
 
-**END OF DOCUMENT — PPMCMS-DEL-001 — VERSION 1.0 PROPOSED FOR APPROVAL**
+**END OF DOCUMENT — PPMCMS-DEL-001 — VERSION 1.0 APPROVED**
